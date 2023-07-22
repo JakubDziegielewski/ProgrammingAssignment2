@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
 #Function makeChachMatrix() stores (in an environment separate from current)
 #the matrix passed to it as an argument and its inverse.
 #The function returns returns a list of functions
